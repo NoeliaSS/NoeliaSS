@@ -2,6 +2,7 @@
 
 <!--
 **NoeliaSS/NoeliaSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - 🔭 Me desempeño laboralmente como  Profesora en Química y Físico-Química en el Nivel Medio.
 - 🌱 Actualmente me encuentro estudiando Desarrollo Web Full Stack.
